@@ -1,11 +1,13 @@
 README for upstart-hopmod
 =========================
 This document will help you run a hopmod server using Ubuntu's Upstart.
+
 Prerequisites (and assumptions)
 -------------------------------
 * Ubuntu (with some flavour of upstart)
 * A copy of hopmod, from http://hopmod.e-topic.info/new/index.php5?title=Main_Page
-* Your copy of hopmod is configured and runs normally
+* Your copy of hopmod is configured and runs normally 
+
 Instructions
 ------------
 1. Copy sauer.conf into /etc/init
